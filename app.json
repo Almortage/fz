@@ -5,7 +5,7 @@
     "keywords": [
     "python3",
     "telegram",
-    "Fallen",
+    "SEMO",
     "MusicBot",
     "telegram-bot",
     "pyrogram"
@@ -36,17 +36,6 @@
         "value": "",
         "required": true
       },
-      "SUDO_USERS": {
-        "description": "ضـع ايـدي الـحـسـاب الـمـسـاعـد",
-        "value": "",
-        "required": true
-      },
-      "SUPPORT_CHAT": {
-        "description": "ضـع رابـط جـروب الـدعـم",
-        "value": "https://t.me/D_FBJ",
-        "required": false
-      }
-    },
     "buildpacks": [
           {
               "url": "heroku/python"
