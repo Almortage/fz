@@ -1,1 +1,1 @@
-worker: bash fallen
+worker: bash semo
