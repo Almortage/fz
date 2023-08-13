@@ -10,4 +10,4 @@ WORKDIR /app/
 
 RUN pip3 install --no-cache-dir --upgrade --requirement requirements.txt
 
-CMD bash fallen
+CMD bash semo
