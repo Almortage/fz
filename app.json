@@ -5,7 +5,7 @@
     "keywords": [
     "python3",
     "telegram",
-    "SEMO",
+    "Fallen",
     "MusicBot",
     "telegram-bot",
     "pyrogram"
@@ -35,7 +35,8 @@
         "description": "ضـع جلسة البايروجرام احصل عليها من هنا @str_12bot",
         "value": "",
         "required": true
-      },
+      }
+    },
     "buildpacks": [
           {
               "url": "heroku/python"
